@@ -10,7 +10,7 @@
   </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,ts,angular,js,html,css,tailwind,postgres,redis,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,ts,angular,tailwind,redis,docker,git,js,html,css,&theme=dark" />
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
