@@ -9,9 +9,10 @@
     <a href="https://portfolio.shalabyziad94.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </p>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,django,ts,angular,js,html,css,tailwind,bootstrap,postgres,redis,docker,git&theme=dark" />
-  </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,ts,angular,js,html,css,tailwind,postgres,redis,docker,git&theme=dark" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
+</p>
 
 </div>
 
