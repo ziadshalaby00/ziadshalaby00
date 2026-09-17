@@ -16,16 +16,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-```js
-console.log("✅ Ready to ship features from day one");
-```
-
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ziadshalaby00/ziadshalaby00/output/github-contribution-grid-snake-dark.svg" />
 </p>
