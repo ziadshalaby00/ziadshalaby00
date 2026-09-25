@@ -48,7 +48,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ziadshalaby00&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" alt="GitHub Streak"/>
 
-https://user-badge.committers.top/egypt/ziadshalaby00
+[![committers.top badge](https://user-badge.committers.top/egypt/ziadshalaby00.svg)](https://user-badge.committers.top/egypt/ziadshalaby00)
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
